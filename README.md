@@ -19,7 +19,7 @@ Cursos, certificações e atividades complementares.
 ### Documentos
 Apresentações, relatórios e materiais acadêmicos.
 
-## 🛠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 - Git
 - GitHub
 - Python
@@ -28,5 +28,5 @@ Apresentações, relatórios e materiais acadêmicos.
 - Excel
 - Power BI
 
-## 📫 Contato
+## Contato
 - GitHub: https://github.com/VitorPevidor
